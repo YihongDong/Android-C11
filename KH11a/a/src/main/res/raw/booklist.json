@@ -1,0 +1,23 @@
+{
+  "booklist": [
+    {
+      "title": "工商管理教程",
+      "authors": [
+        {"write":"张明"},
+
+        {"write":"赵亮"}
+      ],
+      "description": "大学教材",
+      "picurl": ""
+    },
+    {
+      "title": "android开发教程",
+      "authors": [
+        {"write":"张三"},
+        {"write":"李四"}
+      ],
+      "description": "开发技术",
+      "picurl": ""
+    }
+  ]
+}
